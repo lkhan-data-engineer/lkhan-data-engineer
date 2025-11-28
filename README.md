@@ -1,4 +1,4 @@
-![Example Image](test)
+![Example Image](https://github.com/lkhan-data-engineer/lkhan-data-engineer/blob/main/Untitled%20design.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Laraib Khan</h1>
