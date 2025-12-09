@@ -4,23 +4,12 @@
 <h1 align="center">Hi 👋, I'm Laraib Khan</h1>
 <h3 align="center">A passionate Data Engineer | Analytics Engineer</h3>
 
-- 🔭 I’m currently working on [TEST](TEST)
 
-- 🌱 I’m currently learning **FRAMEWORS, COURSES ETC**
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/AlissaAIDataPro?tab=repositories)
 
-- 👯 I’m looking to collaborate on [TEST](TEST)
+- 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/khanofdataengineering)
 
-- 🤝 I’m looking for help with [TEST](TEST)
-
-- 👨‍💻 All of my projects are available at [PORTFOLIO LINK](PORTFOLIO LINK)
-
-- 📝 I regularly write articles on [LINKEDIN LINK](LINKEDIN LINK)
-
-- 💬 Ask me about **TEST**
-
-- 📫 How to reach me **GMAIL**
-
-- ⚡ Fun fact **FUN FACT**
+- 🏕️ Fun fact **When I'm not building pipelines I'm building memories on long distance trails**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
