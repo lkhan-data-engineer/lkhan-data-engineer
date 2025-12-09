@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Data Engineer | Analytics Engineer</h3>
 
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/AlissaAIDataPro?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/lkhan-data-engineer?tab=repositories)
 
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/khanofdataengineering)
 
